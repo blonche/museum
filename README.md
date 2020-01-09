@@ -7,7 +7,7 @@
 项目的开发者|张美玲
 项目的测试者|张美玲 
 
-## 价值主张设计
+## 一、价值主张设计
 
 #### 背景概述
 随着温饱问题的解决，越来越多人开始关注精神层面的温饱，走进博物馆感受文化。可总有种种原因导致人们无法千里迢迢去到博物馆里感受，或许是交通不方便；或许是路途太远；或许是工作原因无法走开。再者，博物馆内解说员的缺乏，导致人们在欣赏博物馆内容时，不得不自行看文物面前的卡片介绍，卡片的文字通常都不大，这会让人们读起来时感到吃力。
@@ -31,20 +31,20 @@
 二维码识别|用户在博物馆游览时，因馆内光线太暗无法看清卡片介绍文物的字，通过APP扫描二维码便可在手机上了解文物介绍|重要
 路线规划|用户通过图片文字识别文物后，获知文物所在博物馆名字，其想要去现场感受，可通过路线规划为用户智能规划去博物馆的路线|次重要
 
-## 原型设计
+## 二、原型设计
 [原型文档——点击进入](http://nfunm101.gitee.io/museum_product)  
-### 界面/交互设计
-![输入图片说明](https://images.gitee.com/uploads/images/2019/1223/133700_7b9f2615_1648162.png "扫一扫.PNG")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/221848_2cccb6e7_1648162.png "扫一扫.PNG")
+### 1.界面/交互设计
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0109/151858_dd339b17_1648162.png "扫一扫.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0109/151919_0749c986_1648162.png "扫一扫无字.PNG")
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1223/133738_499a3d86_1648162.png "上传.PNG")
-![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/221936_760ac6d9_1648162.png "上传.PNG")
+![输入图片说明](https://images.gitee.com/uploads/images/2020/0109/151946_91e560bf_1648162.png "上传无字.PNG")
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1223/133756_dac4a61f_1648162.png "搜索.PNG")
 
-### 信息设计
+### 2.信息设计
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1223/133907_be4f224c_1648162.png "路线.PNG")
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/222349_d47128ed_1648162.png "信息.PNG")
 
-### 产品结构图
+### 3.产品结构图
 #### 产品结构图
 ![输入图片说明](https://images.gitee.com/uploads/images/2020/0106/231423_755b183d_1648162.png "产品结构图.PNG")
 
